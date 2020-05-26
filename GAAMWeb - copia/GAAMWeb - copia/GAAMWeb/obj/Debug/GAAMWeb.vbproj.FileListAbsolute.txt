@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\bin\GAAMWeb.dll
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\bin\GAAMWeb.pdb
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\bin\GAAMWeb.xml
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\bin\GAAMWeb_AD.dll
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\bin\GAAMWeb_AD.pdb
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\bin\GAAMWeb_AD.xml
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.Resources.resources
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.dll
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.xml
+C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.pdb
