@@ -10,3 +10,15 @@ C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE
 C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.dll
 C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.xml
 C:\Users\USUARIO\Documents\Desarrollo de Software III\PRACTICA PROFESIONALIZANTE II\GAAMWeb\GAAMWeb\obj\Debug\GAAMWeb.pdb
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\bin\GAAMWeb.dll
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\bin\GAAMWeb.pdb
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\bin\GAAMWeb.xml
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\bin\GAAMWeb_AD.dll
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\bin\GAAMWeb_AD.pdb
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\bin\GAAMWeb_AD.xml
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\obj\Debug\GAAMWeb.vbprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\obj\Debug\GAAMWeb.Resources.resources
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\obj\Debug\GAAMWeb.vbproj.GenerateResource.Cache
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\obj\Debug\GAAMWeb.dll
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\obj\Debug\GAAMWeb.xml
+C:\Users\Agus\Documents\GitHub\GAAM\GAAMWeb - copia\GAAMWeb - copia\GAAMWeb\obj\Debug\GAAMWeb.pdb
