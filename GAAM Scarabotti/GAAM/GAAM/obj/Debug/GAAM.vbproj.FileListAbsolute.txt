@@ -1,0 +1,8 @@
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\bin\GAAM.dll
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\bin\GAAM.pdb
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\bin\GAAM.xml
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\obj\Debug\GAAM.Resources.resources
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\obj\Debug\GAAM.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\obj\Debug\GAAM.dll
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\obj\Debug\GAAM.xml
+C:\Users\Agus\Desktop\GAAM\GAAM\GAAM\obj\Debug\GAAM.pdb

@@ -1,0 +1,8 @@
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\bin\Debug\Libreria_AD.dll
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\bin\Debug\Libreria_AD.pdb
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\bin\Debug\Libreria_AD.xml
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\obj\Debug\Libreria_AD.Resources.resources
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\obj\Debug\Libreria_AD.vbproj.GenerateResource.Cache
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\obj\Debug\Libreria_AD.dll
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\obj\Debug\Libreria_AD.xml
+C:\Users\Agus\Desktop\GAAM\GAAM\Libreria_AD\obj\Debug\Libreria_AD.pdb
